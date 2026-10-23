@@ -1,7 +1,7 @@
 # Manboo短剧 (Manboo Drama) · 官方版本发布与安装包下载 / Official Releases
 
 - **当前正式版本 (Latest Full Release)**：`1.0.0 (1000)`
-- **当前热更版本 (Latest Hot Update)**：`1.0.0 (1003)`
+- **当前热更版本 (Latest Hot Update)**：`1.0.0 (1004)`
 - **国内下载主页 (Gitee Releases)**：[https://gitee.com/manbooai/aivideo/releases](https://gitee.com/manbooai/aivideo/releases)
 - **海外下载主页 (GitHub Releases)**：[https://github.com/manbooai/aivideo/releases](https://github.com/manbooai/aivideo/releases)
 - **历史版本记录 (Changelog)**：见 [CHANGELOG.md](./CHANGELOG.md) 与 `releases/` 目录
