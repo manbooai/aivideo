@@ -12,7 +12,7 @@
 | 系统平台 / Platform | 适用机型 / Arch | 安装包文件 | 国内下载 (Gitee) | Global Download (GitHub) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Windows** | Windows 10 / 11 (64位) | `Manboo-windows-64.exe` | [Manboo-windows-64.exe (96.0MB)](https://gitee.com/manbooai/aivideo/releases/download/latest/Manboo-windows-64.exe) | [Manboo-windows-64.exe](https://github.com/manbooai/aivideo/releases/download/latest/Manboo-windows-64.exe) |
-| **macOS (Apple Silicon)** | Apple M1 / M2 / M3 / M4 | `Manboo-macos-arm64.dmg` | [Manboo-macos-arm64.dmg (86.4MB)](https://gitee.com/manbooai/aivideo/releases/download/latest/Manboo-macos-arm64.dmg) | [Manboo-macos-arm64.dmg](https://github.com/manbooai/aivideo/releases/download/latest/Manboo-macos-arm64.dmg) |
+| **macOS (Apple Silicon)** | Apple M1 / M2 / M3 / M4 | `Manboo-macos-arm64.dmg` | [Manboo-macos-arm64.dmg (86.3MB)](https://gitee.com/manbooai/aivideo/releases/download/latest/Manboo-macos-arm64.dmg) | [Manboo-macos-arm64.dmg](https://github.com/manbooai/aivideo/releases/download/latest/Manboo-macos-arm64.dmg) |
 | **macOS (Intel)** | Intel 芯片 Mac | `Manboo-macos-64.dmg` | [Manboo-macos-64.dmg (94.5MB)](https://gitee.com/manbooai/aivideo/releases/download/latest/Manboo-macos-64.dmg) | [Manboo-macos-64.dmg](https://github.com/manbooai/aivideo/releases/download/latest/Manboo-macos-64.dmg) |
 
 ---
