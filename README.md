@@ -1,6 +1,6 @@
 # Manboo影创 (Manboo Studio) · 官方客户端下载 / Official Releases
 
-- **当前版本 (Latest Version)**：`1.0.0 (1032)`
+- **当前版本 (Latest Version)**：`1.0.0 (1033)`
 - **国内下载 (Gitee Releases)**：[https://gitee.com/manbooai/aivideo/releases](https://gitee.com/manbooai/aivideo/releases)
 - **Global Download (GitHub Releases)**：[https://github.com/manbooai/aivideo/releases](https://github.com/manbooai/aivideo/releases)
 - **更新记录 (Changelog)**：[CHANGELOG.md](./CHANGELOG.md)
@@ -14,6 +14,9 @@
 | **Windows** | Windows 10 / 11 (64位) | `Manboo-windows-64.exe` | [Manboo-windows-64.exe (96.1MB)](https://gitee.com/manbooai/aivideo/releases/download/latest/Manboo-windows-64.exe) | [Manboo-windows-64.exe](https://github.com/manbooai/aivideo/releases/download/latest/Manboo-windows-64.exe) |
 | **macOS (Apple Silicon)** | Apple M1 / M2 / M3 / M4 | `Manboo-macos-arm64.dmg` | [Manboo-macos-arm64.dmg (86.5MB)](https://gitee.com/manbooai/aivideo/releases/download/latest/Manboo-macos-arm64.dmg) | [Manboo-macos-arm64.dmg](https://github.com/manbooai/aivideo/releases/download/latest/Manboo-macos-arm64.dmg) |
 | **macOS (Intel)** | Intel 芯片 Mac | `Manboo-macos-64.dmg` | [Manboo-macos-64.dmg (94.6MB)](https://gitee.com/manbooai/aivideo/releases/download/latest/Manboo-macos-64.dmg) | [Manboo-macos-64.dmg](https://github.com/manbooai/aivideo/releases/download/latest/Manboo-macos-64.dmg) |
+| **Android 手机 / 平板** | Android 7.0+ 手机与 Pad | `Manboo-android.apk` | [Manboo-android.apk](https://gitee.com/manbooai/aivideo/releases/download/latest/Manboo-android.apk) | [Manboo-android.apk](https://github.com/manbooai/aivideo/releases/download/latest/Manboo-android.apk) |
+| **iOS / iPadOS (侧载版)** | iPhone / iPad (Sideloadly) | `Manboo-ios.ipa` | [Manboo-ios.ipa](https://gitee.com/manbooai/aivideo/releases/download/latest/Manboo-ios.ipa) | [Manboo-ios.ipa](https://github.com/manbooai/aivideo/releases/download/latest/Manboo-ios.ipa) |
+| **iOS / iPadOS (免签版)** | iPhone / iPad 全屏桌面图标 | `Manboo-ios-webclip.mobileconfig` | [Manboo-ios-webclip.mobileconfig](https://gitee.com/manbooai/aivideo/releases/download/latest/Manboo-ios-webclip.mobileconfig) | [Manboo-ios-webclip.mobileconfig](https://github.com/manbooai/aivideo/releases/download/latest/Manboo-ios-webclip.mobileconfig) |
 
 ---
 
@@ -24,4 +27,8 @@
    - **首次打开若弹出安全提示（「无法打开 / 未验证开发者」）**：
      - **方式一**：在「应用程序」中右键（或按住 `Control` 键点击）**「Manboo影创」** 图标，选择 **「打开 (Open)」**。
      - **方式二（macOS 13 / 14 / 15+ 推荐）**：打开系统 **「系统设置 (System Settings)」** → **「隐私与安全性 (Privacy & Security)」**，向下滚动到底部「安全性」区域，点击 **「仍要打开 (Open Anyway)」** 即可。
-3. **自动更新**：安装包已内置最新完整版本，新用户安装后即可直接使用；后续如有版本更新将在应用内自动完成。
+3. **Android 手机 / 平板**：下载 `.apk` 后直接点击安装即可，自适应手机竖屏与平板横竖屏布局。
+4. **iPhone / iPad**：
+   - **方式 A（Sideloadly 原生包）**：在电脑安装 Sideloadly，连接手机或 iPad 后拖入 `.ipa` 输入个人 Apple ID 自动签名安装，首次打开前往「设置 → 通用 → VPN 与设备管理」信任开发者证书。
+   - **方式 B（免签桌面版）**：使用系统自带 **Safari** 浏览器点击下载 `.mobileconfig`，打开系统 **「设置 → 已下载描述文件」** 点击右上角安装，即可在桌面生成全屏独立应用图标。
+5. **自动更新**：桌面安装包已内置最新完整版本，新用户安装后即可直接使用；后续如有版本更新将在应用内自动完成。
