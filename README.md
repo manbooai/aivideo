@@ -1,6 +1,6 @@
 # Manboo影创 (Manboo Studio) · 官方客户端下载 / Official Releases
 
-- **当前版本 (Latest Version)**：`1.0.4 (1001)`
+- **当前版本 (Latest Version)**：`1.0.5 (1000)`
 - **国内下载 (Gitee Releases)**：[https://gitee.com/manbooai/aivideo/releases](https://gitee.com/manbooai/aivideo/releases)
 - **Global Download (GitHub Releases)**：[https://github.com/manbooai/aivideo/releases](https://github.com/manbooai/aivideo/releases)
 - **更新记录 (Changelog)**：[CHANGELOG.md](./CHANGELOG.md)
@@ -12,8 +12,8 @@
 | 系统平台 / Platform | 适用机型 / Arch | 安装包文件 | 国内下载 (Gitee) | Global Download (GitHub) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Windows** | Windows 10 / 11 (64位) | `Manboo-windows-64.exe` | [Manboo-windows-64.exe (96.2MB)](https://gitee.com/manbooai/aivideo/releases/download/latest/Manboo-windows-64.exe) | [Manboo-windows-64.exe](https://github.com/manbooai/aivideo/releases/download/latest/Manboo-windows-64.exe) |
-| **macOS (Apple Silicon)** | Apple M1 / M2 / M3 / M4 | `Manboo-macos-arm64.dmg` | [Manboo-macos-arm64.dmg (86.3MB)](https://gitee.com/manbooai/aivideo/releases/download/latest/Manboo-macos-arm64.dmg) | [Manboo-macos-arm64.dmg](https://github.com/manbooai/aivideo/releases/download/latest/Manboo-macos-arm64.dmg) |
-| **macOS (Intel)** | Intel 芯片 Mac | `Manboo-macos-64.dmg` | [Manboo-macos-64.dmg (94.5MB)](https://gitee.com/manbooai/aivideo/releases/download/latest/Manboo-macos-64.dmg) | [Manboo-macos-64.dmg](https://github.com/manbooai/aivideo/releases/download/latest/Manboo-macos-64.dmg) |
+| **macOS (Apple Silicon)** | Apple M1 / M2 / M3 / M4 | `Manboo-macos-arm64.dmg` | [Manboo-macos-arm64.dmg (86.4MB)](https://gitee.com/manbooai/aivideo/releases/download/latest/Manboo-macos-arm64.dmg) | [Manboo-macos-arm64.dmg](https://github.com/manbooai/aivideo/releases/download/latest/Manboo-macos-arm64.dmg) |
+| **macOS (Intel)** | Intel 芯片 Mac | `Manboo-macos-64.dmg` | [Manboo-macos-64.dmg (94.6MB)](https://gitee.com/manbooai/aivideo/releases/download/latest/Manboo-macos-64.dmg) | [Manboo-macos-64.dmg](https://github.com/manbooai/aivideo/releases/download/latest/Manboo-macos-64.dmg) |
 | **Android 手机 / 平板** | Android 7.0+ 手机与 Pad | `Manboo-android.apk` | [Manboo-android.apk](https://gitee.com/manbooai/aivideo/releases/download/latest/Manboo-android.apk) | [Manboo-android.apk](https://github.com/manbooai/aivideo/releases/download/latest/Manboo-android.apk) |
 | **iOS / iPadOS (侧载版)** | iPhone / iPad (Sideloadly) | `Manboo-ios.ipa` | [Manboo-ios.ipa](https://gitee.com/manbooai/aivideo/releases/download/latest/Manboo-ios.ipa) | [Manboo-ios.ipa](https://github.com/manbooai/aivideo/releases/download/latest/Manboo-ios.ipa) |
 | **iOS / iPadOS (免签版)** | iPhone / iPad 全屏桌面图标 | `Manboo-ios-webclip.mobileconfig` | [Manboo-ios-webclip.mobileconfig](https://gitee.com/manbooai/aivideo/releases/download/latest/Manboo-ios-webclip.mobileconfig) | [Manboo-ios-webclip.mobileconfig](https://github.com/manbooai/aivideo/releases/download/latest/Manboo-ios-webclip.mobileconfig) |
